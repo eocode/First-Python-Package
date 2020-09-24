@@ -1,3 +1,3 @@
 def say_message(message):
-    print(message)
+    print("The message is: ", message)
     return message

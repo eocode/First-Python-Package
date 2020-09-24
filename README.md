@@ -11,7 +11,7 @@ Create a package and publish in https://pypi.org
 
 # Public repository
 
-https://pypi.org/project/say-message/#history
+https://pypi.org/project/say-message
 
 # Basic Usage
 
